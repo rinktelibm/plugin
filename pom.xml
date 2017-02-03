@@ -9,7 +9,7 @@
 	<description>A plugin to define a custom similarity for ElasticSearch</description>
 
 	<properties>
-		<elasticsearch.version>2.4.0</elasticsearch.version>
+		<elasticsearch.version>2.4.3</elasticsearch.version>
 	</properties>
 	<build>
 		<resources>
